@@ -158,11 +158,14 @@ Captured logs for each scenario are stored in [`/logs`](./logs).
 ## 8. Repository Structure
 
 ```
-├── /schematics       # Proteus schematic files and exported images
-├── /firmware          # STM32CubeIDE project (source, headers, build config)
-├── /logs              # Captured UART logs from validation runs
-├── /docs              # Extended documentation (I/O list, architecture notes, pin map)
+├── /schematics       # Proteus schematic files and exported images [to be added]
+├── /firmware          # STM32CubeIDE project (source, headers, build config) [to be added]
+├── /logs              # Captured UART logs from validation runs [to be added
+├── /docs              # Extended documentation (I/O list, architecture notes, pin map) [to be added]
 ├── README.md
+├── Node_Code.ino
+├── SEAL_MULE_Controller_B.ino
+├── Seal_Mule.pdf
 ```
 
 ---
