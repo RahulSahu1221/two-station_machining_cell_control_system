@@ -1,6 +1,6 @@
 <div align='center'>
 
-# PLC-Equivalent Machining Cell Controller
+# Two-Station Machining Cell Control System
 
 ### *A microcontroller-based electrical control system that sequences, interlocks, and protects a two-station machining and material-handling cell — designed and simulated entirely as a substitute for PLC hardware and software.*
 
